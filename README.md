@@ -4,12 +4,10 @@ Tragedy of the Commons On Chain
 
 [What is the tragedy of the commons? - Nicholas Amendolare](https://www.youtube.com/watch?v=CxC161GvMPc)
 
-Summary
+## Summary
 FISH DAO is a game theory game used to understand how individuals will behave when given a
 shared resource. Players will vote on how much resources they should take. The data will
 gauge participation and health of the DAO.
-
-
 
 ## Problem
 Tragedy of the commons is a situation in which individuals with access to a shared resource
